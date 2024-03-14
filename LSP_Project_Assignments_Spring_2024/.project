@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/org/howard/edu/lsp/midterm/lspMidterm.docx</name>
+			<type>1</type>
+			<location>C:/Users/khenp/OneDrive/Documents/lspMidterm.docx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
